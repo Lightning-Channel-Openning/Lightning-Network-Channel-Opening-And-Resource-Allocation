@@ -1,0 +1,3 @@
+[submodule "custom-sb3/sb3"]
+	path = custom-sb3/sb3
+	url = https://github.com/BlueBug12/custom_stable_baselines.git
